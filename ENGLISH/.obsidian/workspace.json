@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "33df8011d53f8a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "677a05c689b3f0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9c2341c3ab42fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adverb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "111e67e604b75bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61835873f66b6bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94934d34d674891c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87f56000c377ec20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b4255b29cf12f5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "4280fb30c7d0b487",
+    "type": "split",
+    "children": [
+      {
+        "id": "f789d9221d7482b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a252b8a49baea0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adverb.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22621ecb7abf5905",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adverb.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e29586c11ee2f0b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63eef05ae2b92394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adverb.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9c2341c3ab42fa8",
+  "lastOpenFiles": [
+    "Conjunction.md",
+    "Adjective.md",
+    "Question Word/How.md",
+    "Question Word/Question Word.md",
+    "Adverb.md",
+    "Question Word/When.md",
+    "Question Word/Other Question Words.md",
+    "Untitled.canvas",
+    "Question Word/What for.md",
+    "Question Word/Where.md",
+    "Verb/Topics/Daily Activities.md",
+    "Verb/Topics/Topics.md",
+    "What.md",
+    "Question Word/Why.md",
+    "Verb/Phrasal Verb.md",
+    "Verb/Verb.md",
+    "Verb/Verb Function.md",
+    "Verb/Linking Verb.md",
+    "Adjective/Adjective + To V.md",
+    "Adjective/Adjective + Preposition.md",
+    "Adjective",
+    "Verb Function/Verb Function 4.md",
+    "Verb/Topics",
+    "Verb/Phrasal Verb",
+    "Linking-Verb.md",
+    "Verb Function/Verb Function 1,2,3 1.md",
+    "Linking.md",
+    "Subjects.md",
+    "Verb Function/Linking Verb",
+    "public place.md",
+    "Verb",
+    "Question Word"
+  ]
+}
